@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(211, 204, 210);
+    padding: 20px;
+    height: 100vh;
+}
+
+.department-container {
+    width: 400px;
+    margin: 15% auto;
+    background-color: rgba(249, 249, 249, 0.758);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(231, 105, 105, 0.758);
+}
+
+.department-form h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: rgb(191, 64, 64);
+}
+
+.form-group {
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content:center ;
+}
+
+label {
+    margin-right: 5px; 
+    white-space: nowrap;
+}
+
+.form-group input {
+    padding: 15px;
+    background-color: transparent;
+    width: 100%;
+}
+
+.form-group button {
+    width: 100px;
+    background-color: tomato;
+    padding: 10px;
+    border-radius: 20px;
+   
+}
+
+.form-group button:hover {
+    background-color: black;
+    color: white; 
+}

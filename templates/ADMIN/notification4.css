@@ -1,0 +1,44 @@
+body{
+    background-color: bisque;
+    padding: 20px;
+    height: 100vh;
+}
+.notification-container {
+    max-width: 300px;
+    margin: 300px auto;
+    background-color: rgba(249, 249, 249, 0.758);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(49, 19, 19, 0.758);
+}
+.notification-form h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color:black;
+}
+.form-group {
+    margin-bottom: 20px;
+}
+.form-group input {
+    width: 90%;
+    margin-top: 18px;
+    padding: 15px;
+    background-color: transparent;
+    border-radius: 20px;
+    
+}
+
+.form-group button {
+    width: 100px;
+    height: 40px;
+    background-color: greenyellow;
+    padding: 0%;
+    border-radius: 30px;
+    margin-bottom: 10%;
+    margin-left: 100px;
+    transition: 0.3s  ease;
+}
+
+.form-group button  :hover {
+    background-color: black;
+}

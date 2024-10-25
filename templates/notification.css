@@ -1,0 +1,46 @@
+body
+{
+    background-color: aliceblue;
+    height: 100px;
+}
+
+.home{
+    height: 50px;
+    background-color: rgb(167, 191, 223);
+    position: relative;
+    top:0;
+    display: flex;
+}
+.page{
+    background-color: rgb(12, 10, 10);
+    width: 200px;
+    height:1000px;
+}
+.link{
+    padding-top: 50px;
+    margin-left: 25%;
+
+}
+.link a{
+    display: block;
+    padding:60px;
+    width:100px;
+    font-size: medium;
+    color: rgb(14, 15, 15);
+    background-color: rgb(205, 224, 241);
+    border-radius: 10px;
+    margin-left: 60px;
+    margin-right: 80px;
+    text-decoration: none;
+    text-align: right;
+    padding-right: 40px;
+}
+
+.link ul{
+    list-style-type: none;
+}
+.page .icons
+{
+    display: block;
+    font-size: 60px;   
+}

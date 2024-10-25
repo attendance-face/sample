@@ -1,0 +1,41 @@
+body{
+    background-color: thistle;
+    
+}
+
+
+.tab
+{
+    
+    display: flex;
+    justify-content: center;
+    height: 20vh;
+    font-size: medium;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.rish h1{
+    text-align: center;
+    align-items: center;
+    margin-top: 300px;
+}
+.gaya3{
+    margin-left: 1400px;
+   
+}
+table {
+    border: 1px solid black;
+    width: 50%;
+    border-collapse: collapse;
+    padding: 20px;
+    background-color: honeydew;
+}
+tr {
+    border: 2px solid rgb(0, 0, 0);
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+    background-color: aqua;
+}
